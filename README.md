@@ -38,9 +38,8 @@ Apaixonado por tecnologia e programação, com experiência em desenvolvimento d
 
 ## 📫 Entre em Contato 
 
-- 📧 Email: [matheus.santos@exemplo.com](mailto:matheus.santos@exemplo.com)  
-- 🔗 LinkedIn: [linkedin.com/in/matheus-santos](https://linkedin.com/in/matheus-santos)  
-- 🌐 Website: [matheus.dev](https://matheus.dev)
+- 📧 Email: [matheus.santos@exemplo.com](mailto:matheussantosmaia@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/matheus-santos](https://www.linkedin.com/in/matheus-santos-maia)  
 
 ---
 
